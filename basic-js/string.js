@@ -46,6 +46,6 @@
 // let str = "ritikamohanty"
 // console.log(str.replace("a","t"))
 
-let str= "NODEJS"
-console.log(str.charAt(2))
-console.log(str.charAt(3))
+// let str= "NODEJS"
+// console.log(str.charAt(2))
+// console.log(str.charAt(3))

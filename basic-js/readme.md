@@ -189,3 +189,28 @@ String method:-
 5. str1.concat(str2)
 6. str.replace(searchVal, newVal)
 7. str.charAt(idx)
+
+Array on JS:-
+-array is a collection of items .
+-ex->
+let heros = ["iron man", "hulk", "super man", "spyder man"]
+-array index starting from "0".
+-arr[0], arr[1]... etc...
+
+Looping over an array:-
+-loop -> iterable
+-syntax->
+for (let i=0; i < arr.length; i++){
+   statement
+}
+
+aaray method on js :-
+
+1-push - add an element to the end .
+2.pop - delete from end.
+3.toString - convert array to dtring 
+4. concat - join multiple array and return result .
+5. unshift - add an element to string
+6. shift - delete from start 
+7. slice() -  return a peace of the array 
+8.splice() - change original array(add,remove,replace)
